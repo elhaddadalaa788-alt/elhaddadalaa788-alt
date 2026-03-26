@@ -1,5 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/elhaddadalaa788-alt/elhaddadalaa788-alt/main/banner.png" alt="GitHub Banner" width="100%" />
+https://raw.githubusercontent.com/elhaddadalaa788-alt/elhaddadalaa788-alt/main/banner.png
 </p>
 <h1 align="center">Hi there 👋</h1>
 

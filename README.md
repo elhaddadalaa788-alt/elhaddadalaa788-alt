@@ -1,5 +1,4 @@
-https://raw.githubusercontent.com/elhaddadalaa788-alt/elhaddadalaa788-alt/main/banner.png
-</p>
+
 <h1 align="center">Hi there 👋</h1>
 
 <p align="center">

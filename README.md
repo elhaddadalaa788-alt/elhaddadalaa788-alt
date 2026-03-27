@@ -126,6 +126,7 @@ This work helped me better understand how attackers and defenders both use publi
 ### Systems & Platforms
 - Debian Linux
 - Oracle VirtualBox
+- Kali Linux
 
 ### Security & Analysis Tools
 - Nmap
